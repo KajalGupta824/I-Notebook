@@ -33,6 +33,6 @@ run `npm run both` and backend will start
 
 ## Author
 
-- [@ShivamKumar](https://github.com/KajalGupta824)
+- [@KajalGupta824](https://github.com/KajalGupta824)
 
 
